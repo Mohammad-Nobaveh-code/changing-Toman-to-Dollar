@@ -1,1 +1,3 @@
-# changing-Toman-to-Dollar
+# Tabdil
+with this app you can:
+- change toman to dollar
